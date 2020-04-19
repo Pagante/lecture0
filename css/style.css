@@ -27,3 +27,12 @@ header {
 td:hover {
     background-color: tomato;
 }
+#section1 h4,#section2 h4, #section3 h4{
+    color: red;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+div {
+    padding: 12px;
+    font-family: cursive;
+}
