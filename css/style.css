@@ -18,6 +18,7 @@ header {
 #table th,td {
     border: 1px solid black;
     text-align: center;
+    font-size: 23px;
 }
 #table th {
     background-color: teal;
