@@ -1,4 +1,25 @@
-h3{
-    color: blue;
+* {
+    margin: 0;
+    font-size: 20px;
+}
+header {
     text-align: center;
+    color: blue;
+    padding: 5px;
+}
+#table table{
+    border: 1px solid black;
+    margin: 30px;
+    width: 40%;
+    border-collapse: collapse;
+    
+    
+}
+#table th,td {
+    border: 1px solid black;
+    text-align: center;
+}
+#table th {
+    background-color: lightsalmon;
+    color: white;
 }
