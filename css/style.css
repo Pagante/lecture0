@@ -24,3 +24,6 @@ header {
     background-color: teal;
     color: white;
 }
+td:hover {
+    background-color: tomato;
+}
